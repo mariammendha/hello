@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "title": "banner",
+      "width": 1200,
+      "height": 320
+    },
+    {
+      "title": "thumbnail",
+      "width": 80,
+      "height": 80
+    }
+  ]
+}
